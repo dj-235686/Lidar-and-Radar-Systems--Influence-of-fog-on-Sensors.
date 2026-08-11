@@ -37,7 +37,7 @@ This repository provides an empirical study on how dense fog degrades point clou
 
 ---
 
-## 📊 Experimental Results
+##  Experimental Results
 
 ### 1. Velodyne Puck LiDAR
 * **Clear Condition**: Demonstrates consistent point return density across mid-to-long ranges[cite: 3].
