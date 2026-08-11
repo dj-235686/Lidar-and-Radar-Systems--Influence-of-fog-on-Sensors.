@@ -78,3 +78,5 @@ Place your exported plots inside an `assets/` directory to display them in the R
 ### Installation
 ```bash
 pip install numpy pandas matplotlib
+
+Authors: Abdul Rahman Mohammed (Matriculation No.: 29641746), Dhruv Sunilkumar Joshi (Matriculation No.: 12141621)  Advisor: Prof. Dr. Stefan Elser  Institution: RW Hochschule Ravensburg-Weingarten University of Applied Sciences  Program: Master of Science - Mechatronics  Date: December 8, 2023 
